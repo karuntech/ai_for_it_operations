@@ -1,6 +1,6 @@
 # Prompts for IT Operations Professionals
 
-## 1. Summarize
+## 1. Summarizing
 
 When you need to summarize long, detailed documents such as postmortem reports, change ticket notes etc, you can use LLMs to summarize the important data.
 
@@ -11,8 +11,9 @@ I've found copy/pasting results in better quality response.
 
 ```text
 Summarize the following incident ticket in under 300 words.  
-Include: what happened, customer impact, root cause (if known), timeline, and next steps.  
-[PASTE INCIDENT HERE]
+Include: what happened, customer impact, root cause (if known), timeline, and next steps.
+
+[PASTE INCIDENT DETAILS HERE]
 ```
 
 ## 2. Full RCA
@@ -35,6 +36,15 @@ Include sections:
 
 [PASTE INCIDENT DETAILS HERE]
 ```
+
+## 3. Five-Why Analysis
+
+If you are still in the same chat window,  you don't need to copy/paste the incident again. Simply enter the following prompt:
+
+```text
+Perform a 5-Whys analysis on the issue
+```
+
 
 
 
