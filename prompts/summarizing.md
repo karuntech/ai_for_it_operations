@@ -1,6 +1,8 @@
 # Prompts for IT Operations Professionals
 
-## 1. Summarizing
+## Summarizing
+
+### 1. Summarize an incident
 
 When you need to summarize long, detailed documents such as postmortem reports, change ticket notes etc, you can use LLMs to summarize the important data.
 
@@ -16,7 +18,7 @@ Include: what happened, customer impact, root cause (if known), timeline, and ne
 [PASTE INCIDENT DETAILS HERE]
 ```
 
-## 2. Full RCA
+### 2. Full RCA
 
 When you need to create a full root cause analysis report
 
@@ -37,7 +39,7 @@ Include sections:
 [PASTE INCIDENT DETAILS HERE]
 ```
 
-## 3. Five-Why Analysis
+### 3. Five-Why Analysis
 
 If you are still in the same chat window,  you don't need to copy/paste the incident again. Simply enter the following prompt:
 
@@ -45,7 +47,7 @@ If you are still in the same chat window,  you don't need to copy/paste the inci
 Perform a 5-Whys analysis on the issue
 ```
 
-## 4. Log file Anlysis
+### 4. Log file Anlysis
 
 You can copy/paste an excerpt of a log file, (or even a java core dump), to summarize key findings from the log file.
 Attach the log file and then enter the following prompt.
