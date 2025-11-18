@@ -45,6 +45,16 @@ If you are still in the same chat window,  you don't need to copy/paste the inci
 Perform a 5-Whys analysis on the issue
 ```
 
+## 4. Log file Anlysis
 
+You can copy/paste an excerpt of a log file, (or even a java core dump), to summarize key findings from the log file.
+Attach the log file and then enter the following prompt.
 
+```text
+Analyze the attached log file and summarize the key findings.
+```
+
+```text
+Show top 10 URLs causing 500
+```
 
