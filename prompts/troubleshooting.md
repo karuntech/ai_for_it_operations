@@ -1,6 +1,6 @@
 # Prompts for IT Operations Professionals
 
-## Troubleshooting/Investigating
+## 1. Troubleshooting/Investigating
 
 ### Troubleshoot a slow web application
 
@@ -9,5 +9,12 @@ I'm the on-call engineer and am working on troubleshooting an incident. Here’s
 Users are intermittently seeing 500 internal server errors in their browsers. Some users are experiencing slowness when the login. It is a web application written using the LAMP stack.
 Walk me through the investigation.
 ```
+
+## 2. Analyze a Java Thread dump
+
+```text
+My application seems to be hung up. Analyze the thread dump I took while the applications is hung up and find out what could be causing this.
+```
+
 
 
