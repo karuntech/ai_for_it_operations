@@ -56,6 +56,8 @@ Attach the log file and then enter the following prompt.
 Analyze the attached log file and summarize the key findings.
 ```
 
+For web server access logs:
+
 ```text
 Show top 10 URLs causing 500
 ```
