@@ -18,6 +18,14 @@ I’m learning Azure cloud architecture. Create a short multiple choice quiz  5-
 Summarize the various RFCs for HTTP, with the timeline and key features. Present the output in a table. Be concise.
 ```
 
+### 3. Compare products
+
+```text
+What are some alternatives to datadog? Compare them and present the results in a table.
+```
+
+
+
 
 
 
