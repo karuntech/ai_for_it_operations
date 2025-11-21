@@ -26,7 +26,7 @@ In Redhat linux, how can I list the network sockets that are in listening state,
 ```
 
 ```text
-In Reddhat linux, how do I find the package that a file belongs to?
+In Redhat linux, how do I find the package that a file belongs to?
 ```
 
 ```text
