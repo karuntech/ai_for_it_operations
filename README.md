@@ -9,7 +9,7 @@ The *prompts* folder has the prompts demonstrated in the course. You can simply 
 The files AI4ITOPS_01_Gemini_API_Intro.ipynb and AI4ITOPS_01_OpenAI_API_Intro.ipynb include code to get started with Gemini and OpenAI API respectively. 
 To run the code:
 
-Instructions to run AI4ITOPS_01_OpenAI_API_Intro.ipynb
+## Instructions to run AI4ITOPS_01_OpenAI_API_Intro.ipynb
 
 ### Step 1 – Access the notebook
 1.	Open the file AI4ITOPS_01_OpenAI_API_Intro.ipynb and click on the "Open in colab" button at the top left 
